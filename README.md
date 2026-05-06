@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá eu sou o Arthur! 👋
 
-<!--
-**arthuruser001/arthuruser001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor que ama a tecnologia, pricipalmente na área de software, focado em criar soluções digitais para pequenas empresas interessadas, ajudando negócios a crescer.
 
-Here are some ideas to get you started:
+## Minhas Habilidades 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML5 e CSS3 (Design Responsivo)
+- **Back-End & Automação:** Python
+- **Lógica e Aplicativos de Console/Terminal:** C++
+
+## No que estou trabalhando 💻
+
+- Atualmente estou focando em desenvolver Landing Pages para profissionais liberais.
+- Estou estudando automação de processos com Python
+
+## Vamos Conversar? 📞
+
+- **E-Mail:** arthuruser001@gmail.com
+- **Telefone:** (47)92001-5001
+- **Link para meu WhatsApp:** https://w.app/j40dv2
